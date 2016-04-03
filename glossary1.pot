@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+
+msgid "utility"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "bold"
+msgstr ""
+
+msgid "copy this"
+msgstr ""
+
+msgid "copy file"
+msgstr ""
+
+msgid "document"
+msgstr ""
