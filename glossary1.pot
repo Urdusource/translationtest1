@@ -18,3 +18,2592 @@ msgstr ""
 
 msgid "document"
 msgstr ""
+
+msgid "edit"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "free"
+msgstr ""
+
+msgid "go"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "height"
+msgstr ""
+
+msgid "internal"
+msgstr ""
+
+msgid "Javascript"
+msgstr ""
+
+msgid "kill"
+msgstr ""
+
+msgid "local"
+msgstr ""
+
+msgid "monitor"
+msgstr ""
+
+msgid "new"
+msgstr ""
+
+msgid "open"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "quota"
+msgstr ""
+
+msgid "accessibility"
+msgstr ""
+
+msgid "accessible"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "window"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "options"
+msgstr ""
+
+msgid "reload"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "post"
+msgstr ""
+
+msgid "test"
+msgstr ""
+
+msgid "outline"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid "this"
+msgstr ""
+
+msgid "where"
+msgstr ""
+
+msgid "hello"
+msgstr ""
+
+msgid "kashif"
+msgstr ""
+
+msgid "good"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Color Scheme"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Spammer"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Bug"
+msgstr ""
+
+msgid "Bug Report"
+msgstr ""
+
+msgid "Crash"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Preformat"
+msgstr ""
+
+msgid "Text Box"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Advance"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text Editor"
+msgstr ""
+
+msgid "Word Processor"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Advanced Text Editor"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Search Engine"
+msgstr ""
+
+msgid "Right To Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Save As"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Customized"
+msgstr ""
+
+msgid "Notifier"
+msgstr ""
+
+msgid "Messenger"
+msgstr ""
+
+msgid "Entry"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Open Source"
+msgstr ""
+
+msgid "x coordinate"
+msgstr ""
+
+msgid "y coordinate"
+msgstr ""
+
+msgid "line"
+msgstr ""
+
+msgid "internet"
+msgstr ""
+
+msgid "browser"
+msgstr ""
+
+msgid "web"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "by default"
+msgstr ""
+
+msgid "backup"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "forward"
+msgstr ""
+
+msgid "back"
+msgstr ""
+
+msgid "email client"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "font"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "pixel"
+msgstr ""
+
+msgid "avatar"
+msgstr ""
+
+msgid "account"
+msgstr ""
+
+msgid "strategic"
+msgstr ""
+
+msgid "tactical"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Comment(s)"
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "minute(s)"
+msgstr ""
+
+msgid "second(s)"
+msgstr ""
+
+msgid "button"
+msgstr ""
+
+msgid "bright"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "error"
+msgstr ""
+
+msgid "spelling"
+msgstr ""
+
+msgid "broken"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "find"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "e-mail"
+msgstr ""
+
+msgid "create"
+msgstr ""
+
+msgid "battery"
+msgstr ""
+
+msgid "keymap"
+msgstr ""
+
+msgid "discrimination"
+msgstr ""
+
+msgid "constructive"
+msgstr ""
+
+msgid "destructive"
+msgstr ""
+
+msgid "background"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "firewall"
+msgstr ""
+
+msgid "archives"
+msgstr ""
+
+msgid "extentsion"
+msgstr ""
+
+msgid "addon"
+msgstr ""
+
+msgid "FInd and Replace"
+msgstr ""
+
+msgid "tutorial"
+msgstr ""
+
+msgid "docking"
+msgstr ""
+
+msgid "word"
+msgstr ""
+
+msgid "writer"
+msgstr ""
+
+msgid "forum"
+msgstr ""
+
+msgid "link"
+msgstr ""
+
+msgid "thread"
+msgstr ""
+
+msgid "administrator"
+msgstr ""
+
+msgid "admin"
+msgstr ""
+
+msgid "super user"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "moderator"
+msgstr ""
+
+msgid "database"
+msgstr ""
+
+msgid "folder(s)"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "convertor"
+msgstr ""
+
+msgid "prefrences"
+msgstr ""
+
+msgid "tool"
+msgstr ""
+
+msgid "profile"
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "personal"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "display"
+msgstr ""
+
+msgid "administration"
+msgstr ""
+
+msgid "privacy"
+msgstr ""
+
+msgid "username"
+msgstr ""
+
+msgid "pixels"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "information"
+msgstr ""
+
+msgid "signature"
+msgstr ""
+
+msgid "notify"
+msgstr ""
+
+msgid "style"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "topic"
+msgstr ""
+
+msgid "rules"
+msgstr ""
+
+msgid "visit"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "members"
+msgstr ""
+
+msgid "title"
+msgstr ""
+
+msgid "image"
+msgstr ""
+
+msgid "box"
+msgstr ""
+
+msgid "redirect"
+msgstr ""
+
+msgid "action"
+msgstr ""
+
+msgid "option"
+msgstr ""
+
+msgid "submit"
+msgstr ""
+
+msgid "permission"
+msgstr ""
+
+msgid "locked"
+msgstr ""
+
+msgid "lock"
+msgstr ""
+
+msgid "Installation"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Graphic User Interface(GUI)"
+msgstr ""
+
+msgid "Command Line Interface(CLI)"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "software"
+msgstr ""
+
+msgid "hardware"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "MSN"
+msgstr ""
+
+msgid "yahoo"
+msgstr ""
+
+msgid "AOL"
+msgstr ""
+
+msgid "ICQ"
+msgstr ""
+
+msgid "Skin"
+msgstr ""
+
+msgid "italic"
+msgstr ""
+
+msgid "tab"
+msgstr ""
+
+msgid "Operating System"
+msgstr ""
+
+msgid "target"
+msgstr ""
+
+msgid "news feed"
+msgstr ""
+
+msgid "RSS"
+msgstr ""
+
+msgid "row"
+msgstr ""
+
+msgid "cell"
+msgstr ""
+
+msgid "table"
+msgstr ""
+
+msgid "icon"
+msgstr ""
+
+msgid "Home Page"
+msgstr ""
+
+msgid "schema"
+msgstr ""
+
+msgid "tooltip"
+msgstr ""
+
+msgid "pointer"
+msgstr ""
+
+msgid "program"
+msgstr ""
+
+msgid "Basics"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "task"
+msgstr ""
+
+msgid "queue"
+msgstr ""
+
+msgid "Appointment"
+msgstr ""
+
+msgid "Appointments"
+msgstr ""
+
+msgid "notice"
+msgstr ""
+
+msgid "member"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "warning"
+msgstr ""
+
+msgid "warn"
+msgstr ""
+
+msgid "theme"
+msgstr ""
+
+msgid "startup"
+msgstr ""
+
+msgid "session"
+msgstr ""
+
+msgid "manager"
+msgstr ""
+
+msgid "enable"
+msgstr ""
+
+msgid "disable"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "input"
+msgstr ""
+
+msgid "frequency"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid "panel"
+msgstr ""
+
+msgid "audio"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "applet"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "template"
+msgstr ""
+
+msgid "Universal Coordinated Time"
+msgstr ""
+
+msgid "properties"
+msgstr ""
+
+msgid "directory"
+msgstr ""
+
+msgid "universal"
+msgstr ""
+
+msgid "bookmark"
+msgstr ""
+
+msgid "data"
+msgstr ""
+
+msgid "field"
+msgstr ""
+
+msgid "wildcard"
+msgstr ""
+
+msgid "section"
+msgstr ""
+
+msgid "footnote"
+msgstr ""
+
+msgid "Endnote"
+msgstr ""
+
+msgid "screen"
+msgstr ""
+
+msgid "hibernate"
+msgstr ""
+
+msgid "exception"
+msgstr ""
+
+msgid "valid"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "community"
+msgstr ""
+
+msgid "Heading"
+msgstr ""
+
+msgid "highlight"
+msgstr ""
+
+msgid "replace"
+msgstr ""
+
+msgid "launch"
+msgstr ""
+
+msgid "launcher"
+msgstr ""
+
+msgid "featrue"
+msgstr ""
+
+msgid "Heaven"
+msgstr ""
+
+msgid "minimize"
+msgstr ""
+
+msgid "maximize"
+msgstr ""
+
+msgid "restore"
+msgstr ""
+
+msgid "system"
+msgstr ""
+
+msgid "client"
+msgstr ""
+
+msgid "separator"
+msgstr ""
+
+msgid "changer"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "minute"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "user name"
+msgstr ""
+
+msgid "vertical"
+msgstr ""
+
+msgid "horizontal"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "addition"
+msgstr ""
+
+msgid "preference"
+msgstr ""
+
+msgid "note"
+msgstr ""
+
+msgid "notification"
+msgstr ""
+
+msgid "area"
+msgstr ""
+
+msgid "buttons"
+msgstr ""
+
+msgid "paragraph"
+msgstr ""
+
+msgid "margin"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "reply"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "slow"
+msgstr ""
+
+msgid "medium"
+msgstr ""
+
+msgid "fast"
+msgstr ""
+
+msgid "symbols"
+msgstr ""
+
+msgid "symbol"
+msgstr ""
+
+msgid "sky"
+msgstr ""
+
+msgid "palette"
+msgstr ""
+
+msgid "palettes"
+msgstr ""
+
+msgid "pick"
+msgstr ""
+
+msgid "deprecated"
+msgstr ""
+
+msgid "tree"
+msgstr ""
+
+msgid "specification"
+msgstr ""
+
+msgid "switcher"
+msgstr ""
+
+msgid "multimedia"
+msgstr ""
+
+msgid "proofread"
+msgstr ""
+
+msgid "dimension"
+msgstr ""
+
+msgid "dimensions"
+msgstr ""
+
+msgid "multidimensional"
+msgstr ""
+
+msgid "multi-dimensional"
+msgstr ""
+
+msgid "multi dimensional"
+msgstr ""
+
+msgid "frontend"
+msgstr ""
+
+msgid "backend"
+msgstr ""
+
+msgid "category"
+msgstr ""
+
+msgid "categorization"
+msgstr ""
+
+msgid "license"
+msgstr ""
+
+msgid "strategy"
+msgstr ""
+
+msgid "disclaimer"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+msgid "restrict"
+msgstr ""
+
+msgid "restricted"
+msgstr ""
+
+msgid "warranty"
+msgstr ""
+
+msgid "3D"
+msgstr ""
+
+msgid "window navigation"
+msgstr ""
+
+msgid "navigation"
+msgstr ""
+
+msgid "mouse"
+msgstr ""
+
+msgid "clock"
+msgstr ""
+
+msgid "end"
+msgstr ""
+
+msgid "dog"
+msgstr ""
+
+msgid "bed"
+msgstr ""
+
+msgid "sound"
+msgstr ""
+
+msgid "parrot"
+msgstr ""
+
+msgid "Desktop Computer"
+msgstr ""
+
+msgid "workspace"
+msgstr ""
+
+msgid "memory"
+msgstr ""
+
+msgid "proper"
+msgstr ""
+
+msgid "animation"
+msgstr ""
+
+msgid "load"
+msgstr ""
+
+msgid "allocate"
+msgstr ""
+
+msgid "corrupt"
+msgstr ""
+
+msgid "overflow"
+msgstr ""
+
+msgid "Dangerous"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "activity"
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+msgid "home"
+msgstr ""
+
+msgid "underline"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "atom"
+msgstr ""
+
+msgid "Atom Feed"
+msgstr ""
+
+msgid "RSS feed"
+msgstr ""
+
+msgid "opacity"
+msgstr ""
+
+msgid "argument"
+msgstr ""
+
+msgid "confirm"
+msgstr ""
+
+msgid "effect"
+msgstr ""
+
+msgid "effective"
+msgstr ""
+
+msgid "visibility"
+msgstr ""
+
+msgid "visible"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "send"
+msgstr ""
+
+msgid "receive"
+msgstr ""
+
+msgid "receipt"
+msgstr ""
+
+msgid "recommended"
+msgstr ""
+
+msgid "partial"
+msgstr ""
+
+msgid "transparency"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "previous"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+msgid "content"
+msgstr ""
+
+msgid "zoom"
+msgstr ""
+
+msgid "plugin"
+msgstr ""
+
+msgid "support"
+msgstr ""
+
+msgid "color"
+msgstr ""
+
+msgid "allow"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "must"
+msgstr ""
+
+msgid "invalid"
+msgstr ""
+
+msgid "zoom in"
+msgstr ""
+
+msgid "zoom out"
+msgstr ""
+
+msgid "supported"
+msgstr ""
+
+msgid "unsupported"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "sound volume"
+msgstr ""
+
+msgid "connection"
+msgstr ""
+
+msgid "remote"
+msgstr ""
+
+msgid "Selector"
+msgstr ""
+
+msgid "privilege"
+msgstr ""
+
+msgid "privileged"
+msgstr ""
+
+msgid "diagnose"
+msgstr ""
+
+msgid "failsafe"
+msgstr ""
+
+msgid "focus"
+msgstr ""
+
+msgid "authorize"
+msgstr ""
+
+msgid "safely"
+msgstr ""
+
+msgid "possibly"
+msgstr ""
+
+msgid "sidebar"
+msgstr ""
+
+msgid "execute"
+msgstr ""
+
+msgid "screensaver"
+msgstr ""
+
+msgid "pattern"
+msgstr ""
+
+msgid "filter"
+msgstr ""
+
+msgid "image_viewer"
+msgstr ""
+
+msgid "image viewer"
+msgstr ""
+
+msgid "means"
+msgstr ""
+
+msgid "encryption"
+msgstr ""
+
+msgid "encrypt"
+msgstr ""
+
+msgid "decrypt"
+msgstr ""
+
+msgid "tag"
+msgstr ""
+
+msgid "urgent"
+msgstr ""
+
+msgid "generic"
+msgstr ""
+
+msgid "binary"
+msgstr ""
+
+msgid "favorite"
+msgstr ""
+
+msgid "trash"
+msgstr ""
+
+msgid "boolean"
+msgstr ""
+
+msgid "connect"
+msgstr ""
+
+msgid "images"
+msgstr ""
+
+msgid "files"
+msgstr ""
+
+msgid "Fatal"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "obsolete"
+msgstr ""
+
+msgid "compile"
+msgstr ""
+
+msgid "purge"
+msgstr ""
+
+msgid "syntax"
+msgstr ""
+
+msgid "invocation"
+msgstr ""
+
+msgid "viewer"
+msgstr ""
+
+msgid "parse"
+msgstr ""
+
+msgid "catalog"
+msgstr ""
+
+msgid "locale"
+msgstr ""
+
+msgid "synchronize"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "undo"
+msgstr ""
+
+msgid "static"
+msgstr ""
+
+msgid "transverse"
+msgstr ""
+
+msgid "primary"
+msgstr ""
+
+msgid "secondary"
+msgstr ""
+
+msgid "order"
+msgstr ""
+
+msgid "discussion"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "frame"
+msgstr ""
+
+msgid "minimized"
+msgstr ""
+
+msgid "maximized"
+msgstr ""
+
+msgid "move"
+msgstr ""
+
+msgid "abrupt       "
+msgstr ""
+
+msgid "dashboard"
+msgstr ""
+
+msgid "chat"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "mount"
+msgstr ""
+
+msgid "fork"
+msgstr ""
+
+msgid "authentication"
+msgstr ""
+
+msgid "illegal"
+msgstr ""
+
+msgid "aggregator"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "cursor"
+msgstr ""
+
+msgid "Alphabetical"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Hotspot"
+msgstr ""
+
+msgid "screenshot"
+msgstr ""
+
+msgid "popup"
+msgstr ""
+
+msgid "compact"
+msgstr ""
+
+msgid "flagged"
+msgstr ""
+
+msgid "activated"
+msgstr ""
+
+msgid "dock"
+msgstr ""
+
+msgid "Asynchronous"
+msgstr ""
+
+msgid "history"
+msgstr ""
+
+msgid "synopsis"
+msgstr ""
+
+msgid "affiliation"
+msgstr ""
+
+msgid "dedication"
+msgstr ""
+
+msgid "synchronous"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Numbered"
+msgstr ""
+
+msgid "Bulleted"
+msgstr ""
+
+msgid "check box"
+msgstr ""
+
+msgid "control panel"
+msgstr ""
+
+msgid "drawing"
+msgstr ""
+
+msgid "drop down menu"
+msgstr ""
+
+msgid "network"
+msgstr ""
+
+msgid "title bar"
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "storm"
+msgstr ""
+
+msgid "Duststorm"
+msgstr ""
+
+msgid "Thunderstorm"
+msgstr ""
+
+msgid "hail"
+msgstr ""
+
+msgid "truncate"
+msgstr ""
+
+msgid "character"
+msgstr ""
+
+msgid "unmount"
+msgstr ""
+
+msgid "Rewind"
+msgstr ""
+
+msgid "sandstorm"
+msgstr ""
+
+msgid "look"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid "Sticky"
+msgstr ""
+
+msgid "priority"
+msgstr ""
+
+msgid "Mist"
+msgstr ""
+
+msgid "Proof"
+msgstr ""
+
+msgid "justify"
+msgstr ""
+
+msgid "chooser"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "hand"
+msgstr ""
+
+msgid "Console"
+msgstr ""
+
+msgid "work"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "beloved"
+msgstr ""
+
+msgid "Love"
+msgstr ""
+
+msgid "victory"
+msgstr ""
+
+msgid "Sex"
+msgstr ""
+
+msgid "Emoticon"
+msgstr ""
+
+msgid "venus"
+msgstr ""
+
+msgid "taunt"
+msgstr ""
+
+msgid "fan"
+msgstr ""
+
+msgid "fun"
+msgstr ""
+
+msgid "Active Document"
+msgstr ""
+
+msgid "Ascending Order "
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "Browse "
+msgstr ""
+
+msgid "Calendar "
+msgstr ""
+
+msgid "Call Center"
+msgstr ""
+
+msgid "Cancelation "
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Descending Order "
+msgstr ""
+
+msgid "Disconnected"
+msgstr ""
+
+msgid "Electronic"
+msgstr ""
+
+msgid "Extention"
+msgstr ""
+
+msgid "Favorites "
+msgstr ""
+
+msgid "File Extention"
+msgstr ""
+
+msgid "Handsfree"
+msgstr ""
+
+msgid "High Speed"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Layout "
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "decade"
+msgstr ""
+
+msgid "More "
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Processor"
+msgstr ""
+
+msgid "Projector"
+msgstr ""
+
+msgid "Publish "
+msgstr ""
+
+msgid "Registeration "
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Setting "
+msgstr ""
+
+msgid "Stand by"
+msgstr ""
+
+msgid "Subscript"
+msgstr ""
+
+msgid "Subweb"
+msgstr ""
+
+msgid "Super Administrator "
+msgstr ""
+
+msgid "Superscript"
+msgstr ""
+
+msgid "Wireless"
+msgstr ""
+
+msgid "century"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "rose"
+msgstr ""
+
+msgid "petal"
+msgstr ""
+
+msgid "atrocities"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "yearly"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "indicator"
+msgstr ""
+
+msgid "integer"
+msgstr ""
+
+msgid "phone"
+msgstr ""
+
+msgid "modem"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "after"
+msgstr ""
+
+msgid "country"
+msgstr ""
+
+msgid "potter"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "beginning"
+msgstr ""
+
+msgid "null"
+msgstr ""
+
+msgid "cooperate"
+msgstr ""
+
+msgid "handshake"
+msgstr ""
+
+msgid "Emoticons"
+msgstr ""
+
+msgid "Fog"
+msgstr ""
+
+msgid "program (1)"
+msgstr ""
+
+msgid "dynamic"
+msgstr ""
+
+msgid "required"
+msgstr ""
+
+msgid "void"
+msgstr ""
+
+msgid "Optimize"
+msgstr ""
+
+msgid "Accelerator"
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid "dynamically"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "comfortable"
+msgstr ""
+
+msgid "Pub"
+msgstr ""
+
+msgid "Push"
+msgstr ""
+
+msgid "Pull"
+msgstr ""
+
+msgid "Lookup"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Localization"
+msgstr ""
+
+msgid "Nationalization"
+msgstr ""
+
+msgid "Bank"
+msgstr ""
+
+msgid "Smiley"
+msgstr ""
+
+msgid "Policy"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Firefox"
+msgstr ""
+
+msgid "Explorer"
+msgstr ""
+
+msgid "Funny"
+msgstr ""
+
+msgid "Inspector"
+msgstr ""
+
+msgid "Spectator"
+msgstr ""
+
+msgid "Sphere"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Adobe"
+msgstr ""
+
+msgid "Acrobat"
+msgstr ""
+
+msgid "Quote"
+msgstr ""
+
+msgid "high"
+msgstr ""
+
+msgid "school"
+msgstr ""
+
+msgid "university"
+msgstr ""
+
+msgid "Phrase"
+msgstr ""
+
+msgid "fake"
+msgstr ""
+
+msgid "flood"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "bar"
+msgstr ""
+
+msgid "enabled"
+msgstr ""
+
+msgid "header"
+msgstr ""
+
+msgid "footer"
+msgstr ""
+
+msgid "orientation"
+msgstr ""
+
+msgid "opaque"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "hibernation"
+msgstr ""
+
+msgid "Z-axis"
+msgstr ""
+
+msgid "Zero Administration Kit"
+msgstr ""
+
+msgid "recording"
+msgstr ""
+
+msgid "Zero"
+msgstr ""
+
+msgid "Zero configuration network"
+msgstr ""
+
+msgid "Zero-day exploit"
+msgstr ""
+
+msgid "exploit"
+msgstr ""
+
+msgid "Zero Insertion Force socket"
+msgstr ""
+
+msgid "Insertion"
+msgstr ""
+
+msgid "socket"
+msgstr ""
+
+msgid "wait state"
+msgstr ""
+
+msgid "Zip"
+msgstr ""
+
+msgid "code"
+msgstr ""
+
+msgid "drive"
+msgstr ""
+
+msgid "protocol"
+msgstr ""
+
+msgid "transfer"
+msgstr ""
+
+msgid "Zone"
+msgstr ""
+
+msgid "graphic"
+msgstr ""
+
+msgid "optical"
+msgstr ""
+
+msgid "Zoomed video"
+msgstr ""
+
+msgid "updates"
+msgstr ""
+
+msgid "activator"
+msgstr ""
+
+msgid "active window"
+msgstr ""
+
+msgid "acknowledgment"
+msgstr ""
+
+msgid "control"
+msgstr ""
+
+msgid "plug"
+msgstr ""
+
+msgid "Plug-in"
+msgstr ""
+
+msgid "Plug-out"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Measure"
+msgstr ""
+
+msgid "abnormal"
+msgstr ""
+
+msgid "BED"
+msgstr ""
+
+msgid "Discharge"
+msgstr ""
+
+msgid "normal"
+msgstr ""
+
+msgid "Analysis"
+msgstr ""
+
+msgid "supply"
+msgstr ""
+
+msgid "Aged"
+msgstr ""
+
+msgid "account holder"
+msgstr ""
+
+msgid "details"
+msgstr ""
+
+msgid "detail"
+msgstr ""
+
+msgid "outstanding"
+msgstr ""
+
+msgid "balance"
+msgstr ""
+
+msgid "trade"
+msgstr ""
+
+msgid "trader"
+msgstr ""
+
+msgid "trick"
+msgstr ""
+
+msgid "Maintenance"
+msgstr ""
+
+msgid "Maintain"
+msgstr ""
+
+msgid "description"
+msgstr ""
+
+msgid "describe"
+msgstr ""
+
+msgid "insert"
+msgstr ""
+
+msgid "inserted"
+msgstr ""
+
+msgid "Supplier"
+msgstr ""
+
+msgid "Management"
+msgstr ""
+
+msgid "estimate"
+msgstr ""
+
+msgid "estimated time of completion"
+msgstr ""
+
+msgid "completion"
+msgstr ""
+
+msgid "complete"
+msgstr ""
+
+msgid "digital"
+msgstr ""
+
+msgid "disconnect"
+msgstr ""
+
+msgid "daily"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgid "backup file"
+msgstr ""
+
+msgid "bandwidth"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "BIOS"
+msgstr ""
+
+msgid "malware"
+msgstr ""
+
+msgid "Operating"
+msgstr ""
+
+msgid "absolute"
+msgstr ""
+
+msgid "signal"
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "expression"
+msgstr ""
+
+msgid "sequence"
+msgstr ""
+
+msgid "handle"
+msgstr ""
+
+msgid "convert"
+msgstr ""
+
+msgid "Unable"
+msgstr ""
+
+msgid "able"
+msgstr ""
+
+msgid "Unrecognized"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "defined"
+msgstr ""
+
+msgid "undefined"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "check"
+msgstr ""
+
+msgid "collapse"
+msgstr ""
+
+msgid "confirmation"
+msgstr ""
+
+msgid "expand"
+msgstr ""
+
+msgid "Attribute"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Validity"
+msgstr ""
+
+msgid "repudiation"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Superseded"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Response Signer"
+msgstr ""
+
+msgid "Consecutive"
+msgstr ""
+
+msgid "Revocation"
+msgstr ""
+
+msgid "Unresponsive"
+msgstr ""
+
+msgid "Attempt"
+msgstr ""
+
+msgid "host"
+msgstr ""
+
+msgid "Element"
+msgstr ""
+
+msgid "reference"
+msgstr ""
+
+msgid "deprecate"
+msgstr ""
+
+msgid "compatibility"
+msgstr ""
+
+msgid "safe"
+msgstr ""
+
+msgid "flexible"
+msgstr ""
+
+msgid "scheduler"
+msgstr ""
+
+msgid "schedule"
+msgstr ""
+
+msgid "father"
+msgstr ""
+
+msgid "Cascade"
+msgstr ""
+
+msgid "resolve"
+msgstr ""
+
+msgid "Zoom Out Tool"
+msgstr ""
+
+msgid "Zoom In Tool "
+msgstr ""
+
+msgid "parser"
+msgstr ""
+
+msgid "heritagal"
+msgstr ""
+
+msgid "veil"
+msgstr ""
+
+msgid "Suppress"
+msgstr ""
+
+msgid "chronological"
+msgstr ""
+
+msgid "timed out"
+msgstr ""
+
+msgid "Attraction"
+msgstr ""
+
+msgid "Breast"
+msgstr ""
+
+msgid "library"
+msgstr ""
+
+msgid "Feature"
+msgstr ""
+
+msgid "drag"
+msgstr ""
+
+msgid "drop"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "thank"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "encrypted"
+msgstr ""
+
+msgid "nations"
+msgstr ""
+
+msgid "pain"
+msgstr ""
+
+msgid "thanks"
+msgstr ""
+
+msgid "thank you"
+msgstr ""
+
+msgid "lossless"
+msgstr ""
+
+msgid "Isosceles"
+msgstr ""
+
+msgid "send off"
+msgstr ""
+
+msgid "junk mail"
+msgstr ""
+
+msgid "junk"
+msgstr ""
+
+msgid "beep"
+msgstr ""
+
+msgid "project"
+msgstr ""
+
+msgid "Re"
+msgstr ""
+
+msgid "RE:Message"
+msgstr ""
+
+msgid "revenue"
+msgstr ""
+
+msgid "profit"
+msgstr ""
+
+msgid "intercourse"
+msgstr ""
+
+msgid "Islam"
+msgstr ""
+
+msgid "pakistan"
+msgstr ""
+
+msgid "reliablity"
+msgstr ""
+
+msgid "flexiblity"
+msgstr ""
+
+msgid "enviornment"
+msgstr ""
+
+msgid "Scheme"
+msgstr ""
+
+msgid "layers"
+msgstr ""
+
+msgid "referrers"
+msgstr ""
+
+msgid "referrer"
+msgstr ""
+
+msgid "core"
+msgstr ""
+
+msgid "localized"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "resources"
+msgstr ""
+
+msgid "technology"
+msgstr ""
+
+msgid "rug"
+msgstr ""
+
+msgid "global"
+msgstr ""
+
+msgid "ignored"
+msgstr ""
+
+msgid "Rank"
+msgstr ""
+
+msgid "abend"
+msgstr ""
+
+msgid "abort"
+msgstr ""
+
+msgid "abortion"
+msgstr ""
+
+msgid "absolute cell reference"
+msgstr ""
+
+msgid "coding"
+msgstr ""
+
+msgid "path"
+msgstr ""
+
+msgid "node"
+msgstr ""
+
+msgid "accessory"
+msgstr ""
+
+msgid "account balance"
+msgstr ""
+
+msgid "acoustic"
+msgstr ""
+
+msgid "coupler"
+msgstr ""
+
+msgid "Matrix"
+msgstr ""
+
+msgid "active partition"
+msgstr ""
+
+msgid "actuator"
+msgstr ""
+
+msgid "acute"
+msgstr ""
+
+msgid "acronym"
+msgstr ""
+
+msgid "ad hoc"
+msgstr ""
+
+msgid "rotation"
+msgstr ""
+
+msgid "adaptability"
+msgstr ""
+
+msgid "adaptable"
+msgstr ""
+
+msgid "adaption"
+msgstr ""
+
+msgid "adapter"
+msgstr ""
+
+msgid "aspect"
+msgstr ""
+
+msgid "scroll box"
+msgstr ""
+
+msgid "scroll bar"
+msgstr ""
+
+msgid "spacebar"
+msgstr ""
+
+msgid "make"
+msgstr ""
+
+msgid "consumption "
+msgstr ""
+
+msgid "incoming"
+msgstr ""
+
+msgid "outgoing"
+msgstr ""
+
+msgid "sensor"
+msgstr ""
+
+msgid "FORCE"
+msgstr ""
+
+msgid "MOMENTUM"
+msgstr ""
+
+msgid "accelaration"
+msgstr ""
+
+msgid "bulk"
+msgstr ""
+
+msgid "customize"
+msgstr ""
+
+msgid "connectivity"
+msgstr ""
+
+msgid "gallery"
+msgstr ""
+
+msgid "Mentor"
+msgstr ""
+
+msgid "rich"
+msgstr ""
+
+msgid "good bye"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "flush"
+msgstr ""
+
+msgid "hot"
+msgstr ""
+
+msgid "legendary"
+msgstr ""
+
+msgid "idea"
+msgstr ""
+
+msgid "Formal"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "j"
+msgstr ""
+
+msgid "coefficient"
+msgstr ""
+
+msgid "words"
+msgstr ""
+
+msgid "  "
+msgstr ""
+
+msgid "computer"
+msgstr ""
+
+msgid "karachi"
+msgstr ""
+
+msgid "hafeez"
+msgstr ""
+
+msgid "simplicity"
+msgstr ""
+
+msgid "Enhancement"
+msgstr ""
+
+msgid "yeast"
+msgstr ""
+
+msgid "data set"
+msgstr ""
+
+msgid "Rate / Rating"
+msgstr ""
+
+msgid "Battery pack"
+msgstr ""
+
+msgid "tourist"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid "literature"
+msgstr ""
+
+msgid "look in"
+msgstr ""
+
+msgid "mother"
+msgstr ""
+
+msgid "Allah"
+msgstr ""
+
+msgid "Access Denied"
+msgstr ""
