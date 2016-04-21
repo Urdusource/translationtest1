@@ -2664,3 +2664,6 @@ msgstr "اللہ"
 
 msgid "Access Denied"
 msgstr "رسائی مسترد"
+
+msgid "aptitude"
+msgstr ""
