@@ -2670,3 +2670,6 @@ msgstr ""
 
 msgid "invest"
 msgstr ""
+
+msgid "atlas"
+msgstr ""
