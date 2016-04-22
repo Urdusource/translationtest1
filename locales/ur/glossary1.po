@@ -2667,3 +2667,6 @@ msgstr "رسائی مسترد"
 
 msgid "aptitude"
 msgstr ""
+
+msgid "invest"
+msgstr ""
